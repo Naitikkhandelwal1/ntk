@@ -68,7 +68,7 @@ ai on testing !!!!!!!!!
     async function askQuestion() {
       const query = document.getElementById("questionInput").value.trim();
       const answerDiv = document.getElementById("answer");
-      const apiKey = "YOUR_SERPAPI_KEY"; // ← Replace this with your SerpAPI key
+      const apiKey = ""apiKey": " "ckey_010b532479b14ce98699fac1d4b9",","; /
 
       if (!query) {
         answerDiv.textContent = "Please enter a question.";
